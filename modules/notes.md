@@ -1,3 +1,11 @@
+## Module 2: Probability
+
+Z-score: A measure of how many standard deviations below or above the population mean a data point is.
+
+Z-score --> Z = (x-μ)/σ
+
+## Module 3: Sampling
+
 Statistic: A characteristic of a Sample.
 Parameter: A characteristic of a Population.
 
@@ -10,7 +18,8 @@ Sampling variability: How much an estimate varies between samples.
     The more variability in your sample data, the less likely it is
     that the sample mean is an accurate estimate of the population mean.
 
-In statistics, the standard deviation of a sample statistic is called the standard error. The standard error of the mean measures variability among all your sample means.
+In statistics, the standard deviation of a sample statistic is called the standard error. The standard error of the mean measures variability among
+all your sample means.
 
     Larger estandar error: Sample means are more spread out
     Smaller estandar error: Sample means are closer together
@@ -29,6 +38,7 @@ Standard error of the mean = S/√n
   <img src="https://github.com/user-attachments/assets/370dff3f-4bba-4ad5-a250-84f46d3205b2" />
 </p>
 
+Central Limit Theorem: The sampling distribution of the mean approaches a normal distribution as the sample size increases.
 
 
 
