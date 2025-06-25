@@ -7,6 +7,7 @@ Z-score --> Z = (x-μ)/σ
 ## Module 3: Sampling
 
 Statistic: A characteristic of a Sample.
+
 Parameter: A characteristic of a Population.
 
 Point estimate: Uses a single value to estimate a population parameter.
