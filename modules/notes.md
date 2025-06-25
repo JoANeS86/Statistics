@@ -1,5 +1,7 @@
 ## Module 2: Probability
 
+Standardization: The process of putting different variables on the same scale.
+
 Z-score: A measure of how many standard deviations below or above the population mean a data point is.
 
 Z-score --> Z = (x-μ)/σ
@@ -40,6 +42,17 @@ Standard error of the mean = S/√n
 </p>
 
 Central Limit Theorem: The sampling distribution of the mean approaches a normal distribution as the sample size increases.
+
+Population proportion: The percentage of individuals or elements in a population that share a certain characteristic.
+
+The Standard Error of a proportion --> SE = √p(1−p)/n
+
+To reach to that formula:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e2a686d-abbb-4503-9966-0064b0484913" />
+</p>
+
 
 
 
