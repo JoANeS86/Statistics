@@ -12,11 +12,11 @@ Statistic: A characteristic of a Sample.
 
 Parameter: A characteristic of a Population.
 
-Point estimate: Uses a single value to estimate a population parameter.
+Point Estimate: Uses a single value to estimate a population parameter.
 
-Sampling distribution: A probability distribution of a sample statistic.
+Sampling Distribution: A probability distribution of a sample statistic.
 
-Sampling variability: How much an estimate varies between samples.
+Sampling Variability: How much an estimate varies between samples.
 
     The more variability in your sample data, the less likely it is
     that the sample mean is an accurate estimate of the population mean.
@@ -53,9 +53,28 @@ To reach to that formula:
   <img src="https://github.com/user-attachments/assets/8e2a686d-abbb-4503-9966-0064b0484913" />
 </p>
 
+## Module 4: Confidence Intervals
 
+Confidence Interval: A range of values that describes the uncertainty surrounding an estimate.
 
+Interval Estimate: In contrast to a Point Estimate, that uses a single value to estimate a population parameter, an Interval Estimate uses a range of
+values to estimate a population parameter.
 
+Interval --> Sample Statistic +/- Margin of Error
+
+Margin of Error: The maximum expected difference between a population parameter and a sample estimate.
+
+Margin of Error = Z-score * Standard Error
+
+Confidence Level: Describes the likelihood that a particular sampling method will produce a confidence interval that includes the population
+parameter.
+
+Steps for constructing a confidence interval:
+
+        1. Identify a sample statistic
+        2. Choose a confidence level
+        3. Find the margin of error
+        4. Calculate the interval
 
 
 
